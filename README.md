@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Key-Account-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Key-Account-Management?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Key-Account-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Key-Account-Management?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Key-Account-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Key-Account-Management?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Key-Account-Management/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Key-Account-Management?style=flat-square&color=red" alt="Open Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Key-Account-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
@@ -65,7 +65,7 @@ The following hosted solutions represent the leading dedicated platforms for ent
 
 ## 💻 Open-Source Projects & Frameworks
 
-Open-source alternatives enable full data sovereignty, customizable account intelligence workflows, and self-hosted deployments without seat license overhead. Repositories are sorted by GitHub Star Count in descending order.
+Open-source alternatives enable full data sovereignty, customizable account intelligence workflows, and self-hosted deployments without seat license overhead. Repositories are sorted by GitHub Stars_Count in descending order.
 
 1. **[NocoDB](https://github.com/nocodb/nocodb)** [![Stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)  
    Open-source Airtable alternative that transforms PostgreSQL, MySQL, or SQL Server into a smart spreadsheet database. Widely adopted for building custom strategic account planners, relationship grids, client metadata registries, and territory whitespace trackers. AGPL-3.0 licensed.
@@ -133,7 +133,7 @@ Contributions are warmly welcome! If you know of an innovative SaaS platform or 
 2. **Create a branch** for your update: `git checkout -b feature/add-tool-name`.
 3. Add or update entries in `README.md` following our structured format:
    - Factual descriptions with verified starting tier pricing and trial terms.
-   - For open-source projects, include the official GitHub star badge linking to its stargazers page.
+   - For open-source projects, include the official GitHub Stars_Badge linking to its stargazers page.
 4. **Submit a Pull Request** with a brief summary of the project and why it belongs in the list.
 
 ---
