@@ -40,67 +40,19 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-## SaaS/Hosted Platforms
+| Platform | Pricing (Starting Tier) | Free Tier Limits / Trial | Company Size (Revenue / Valuation) | Key Capabilities |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Salesforce Account Management](https://www.salesforce.com/)** | $25/user/month (Starter Suite, billed annually) | 30-day free trial (full access to core sales CRM features, guided setup, sample data, no credit card required) | ~$38B+ annual revenue / ~$280B+ market cap | Salesforce's native account management capabilities with account hierarchies, relationship maps, and account-based forecasting within Sales Cloud. |
+| **[Gainsight](https://www.gainsight.com/)** | ~$100/user/month (~$1,200/user/year, Essentials tier; often 10-user minimum bundle) | No free tier; demo required (free viewer-only read licenses available on paid contracts) | ~$1.1B valuation (acquired by Vista Equity Partners) / ~$150M+ ARR | Customer success platform with 360° customer views, health scoring, playbooks, and AI-powered productivity tools for retention and expansion. |
+| **[Planhat](https://www.planhat.com/)** | $1,150/month (Start-Up tier, billed annually at ~$14,000/year; includes unlimited seats) | No free tier; guided live demo & customized evaluation sandbox upon request | ~€490M valuation (~$530M, Series A 2022) / ~$25M+ ARR | Customer platform for professional services and customer success with project management, resource allocation, AI-powered sentiment analysis, and unified customer communication. |
+| **[Totango](https://www.totango.com/)** | ~$1,000/month (~$12,000/year, Starter tier billed annually) | No free tier; guided live sandbox demo upon sales request | $146M+ raised ($100M Series D) / ~$40M+ ARR | Customer success platform recognized as a Leader in The Forrester Wave™: Customer Success Platforms, Q4 2025 with highest Strategy score. Features value realization methodology, AI-driven next best actions, and revenue intelligence. |
+| **[Altify](https://altify.com/)** | $20/user/month (Altify Insights tier, billed annually) | No free tier; guided Salesforce AppExchange demo sandbox upon sales request | $84M cash acquisition (by Upland Software; later acquired by Gallant Capital) / ~$15M–$24M revenue | Strategic Revenue Execution system built on 30 years of proven sales methodology, bringing relationship intelligence and account strategy into Salesforce. Altify MaxAI delivers AI coaching inside Claude, Microsoft Copilot, ChatGPT, and Salesforce Agentforce. |
+| **[ChurnZero](https://churnzero.com/)** | ~$1,000/month (~$12,000/year, starter annual contract) | No free tier; guided demo and custom evaluation sandbox upon request (offers separate standalone free CS AI web assistant) | $34.5M total funding (Series B via JMI Equity) / ~$27M–$35M ARR | Customer success platform with AI agents for renewal management, engagement automation, and expansion opportunity identification. |
+| **[DemandFarm](https://www.demandfarm.com/)** | $20/user/month (Org Chart tier, 10-user minimum; Account Planner starts at $50/user/month) | No free tier; custom guided demo and account planning sandbox upon sales consultation | ~$18M estimated annual revenue | Digital account planning platform for key account management, enabling account tracking, white space analysis, relationship mapping, and upsell/cross-sell strategy development. Featured in Gartner's Account Planning Tools Guide for six consecutive years. Integrates with existing CRM systems. |
+| **[Revegy](https://www.revegy.com/)** | $35/user/month (Base Relationship & Strategy Blueprint tier) | No free tier; customized live proof-of-concept sandbox upon sales request | Acquired by Dura Software / ~$3.7M estimated annual revenue | Sales optimization and enablement platform specializing in account planning, relationship mapping, opportunity planning, and strategic account execution. Helps enterprise sales teams navigate changing relationships and corporate politics in key accounts. |
+| **[Membrain](https://www.membrain.com/)** | $49/user/month (Prospecting module; Account Growth module at $89/user/month; Lite seats at $19/user/month) | Free for life tier (up to 3 Full users & 5 Lite users, max 50 open sales projects, 1 active sales process, standard integrations) | ~$2M ARR | Sales Enablement CRM focused on B2B sales process management, adapting to any sales methodology with strong visualization and coaching tools. |
+| **[Kapta](https://kapta.com/)** | $49/user/month (Basic entry tier; full team KAM deployments start at ~$1,000/month) | No free tier; guided sales demo with tailored pilot evaluation sandbox upon request | ~$675K venture funding (Seed via Rally Ventures) / ~$290K estimated annual revenue | Key account management platform that stores all client-related data in one place, eliminating information silos, tracking Voice of Customer (VoC), and fostering team communication. |
 
-
-
-- **[Salesforce Account Management](https://www.salesforce.com/)**  
-
-  Salesforce's native account management capabilities with account hierarchies, relationship maps, and account-based forecasting within Sales Cloud.
-
-
-
-- **[DemandFarm](https://www.demandfarm.com/)**  
-
-  Digital account planning platform for key account management, enabling account tracking, white space analysis, relationship mapping, and upsell/cross-sell strategy development. Featured in Gartner's Account Planning Tools Guide for six consecutive years . Integrates with existing CRM systems and serves sales and account management teams globally.
-
-
-
-- **[Kapta](https://kapta.com/)**  
-
-  Key account management platform that stores all client-related data in one place, eliminating information silos and fostering team communication .
-
-
-
-- **[Revegy](https://www.revegy.com/)**  
-
-  Sales optimization and enablement platform specializing in account planning, relationship mapping, opportunity planning, and strategic account execution . Helps enterprise sales teams navigate changing relationships, competing interests, and corporate politics in key accounts. Founded in 2005, acquired by Dura Software in 2022.
-
-
-
-- **[Gainsight](https://www.gainsight.com/)**  
-
-  Customer success platform with 360° customer views, health scoring, playbooks, and AI-powered productivity tools for retention and expansion .
-
-
-
-- **[Planhat](https://www.planhat.com/)**  
-
-  Customer platform for professional services and customer success with project management, resource allocation, AI-powered sentiment analysis, and unified customer communication .
-
-
-
-- **[Totango](https://www.totango.com/)**  
-
-  Customer success platform recognized as a Leader in The Forrester Wave™: Customer Success Platforms, Q4 2025 with highest Strategy score . Features value realization methodology, AI-driven next best actions, and revenue intelligence.
-
-
-
-- **[Altify](https://altify.com/)**  
-
-  Strategic Revenue Execution system built on 30 years of proven sales methodology, bringing relationship intelligence and account strategy into Salesforce . Altify MaxAI delivers AI coaching inside Claude, Microsoft Copilot, ChatGPT, and Salesforce Agentforce .
-
-
-
-- **[Membrain](https://www.membrain.com/)**  
-
-  Sales Enablement CRM focused on B2B sales process management, adapting to any sales methodology with strong visualization and coaching tools .
-
-
-
-- **[ChurnZero](https://churnzero.com/)**  
-
-  Customer success platform with AI agents for renewal management, engagement automation, and expansion opportunity identification .
 
 
 
